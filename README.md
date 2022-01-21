@@ -1,3 +1,9 @@
+#This game allow you:
+Play tic-tac-toe,
+Indicates when one of the players won the game,
+Stores a game history as it progresses,
+Allows players to review game history and view previous versions of the board.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
